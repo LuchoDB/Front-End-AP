@@ -1,0 +1,13 @@
+
+body{
+    background:linear-gradient(to right, #FFE5B4 45%,cyan)
+}
+h1.titulo{
+    text-align: center;
+    font-size: 300%;
+    font-style:italic;
+    text-decoration: underline;
+    background-color: rgba(80, 80, 139, 0.514);
+    color: rgba(0, 0, 0, 0.925);
+    
+}
